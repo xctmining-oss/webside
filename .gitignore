@@ -1,0 +1,104 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Dependencies and package manager caches
+node_modules/
+.npm/
+.pnpm-store/
+.yarn/
+
+# Build output and static hosting caches
+dist/
+build/
+out/
+.next/
+.nuxt/
+.cache/
+.parcel-cache/
+.vite/
+.vercel/
+.netlify/
+
+# Logs and diagnostics
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+coverage/
+.nyc_output/
+lighthouse*.html
+lighthouse*.json
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+
+# Local visual QA screenshots generated in the project root
+/es-page.png
+/ru-page.png
+/zh-page.png
+/index-mobile.png
+/index-tablet.png
+/screenshot*.png
+
+# Large product media library.
+# Keep source media on disk, but only track files referenced by current pages.
+/public/**
+!/public/
+!/public/缸套/
+!/public/缸套/37偏心铜套/
+!/public/缸套/37偏心铜套/IMG_20251031_104038.jpg
+!/public/缸套/37偏心铜套/IMG_20251031_104042.jpg
+!/public/缸套/36主轴衬套/
+!/public/缸套/36主轴衬套/IMG_20251031_104521.jpg
+!/public/球面瓦/
+!/public/球面瓦/29铜件/
+!/public/球面瓦/29铜件/IMG_20251031_110638.jpg
+!/public/高锰合金耐磨件/
+!/public/高锰合金耐磨件/1/
+!/public/高锰合金耐磨件/1/1.jpg
+!/public/高锰合金耐磨件/1/2.png
+!/public/高锰合金耐磨件/1/3.jpg
+!/public/高锰合金耐磨件/2/
+!/public/高锰合金耐磨件/2/2.png
+!/public/高锰合金耐磨件/板锤/
+!/public/高锰合金耐磨件/板锤/1.jpg
+!/public/高锰合金耐磨件/板锤/4.png
+!/public/高锰合金耐磨件/锤头/
+!/public/高锰合金耐磨件/锤头/1.jpg
+!/public/配重/
+!/public/配重/14偏心配重/
+!/public/配重/14偏心配重/IMG_20251101_093915.jpg
+!/public/配重/14偏心配重/IMG_20251101_093918.jpg
+!/public/配重/22锁紧螺母/
+!/public/配重/22锁紧螺母/IMG_20251031_161559.jpg
+!/public/配重/22锁紧螺母/IMG_20251031_161602.jpg
+!/public/配重/22锁紧螺母/IMG_20251031_161605.jpg
+!/public/配重/22锁紧螺母/IMG_20251031_161608.jpg
+!/public/配重/24配重/
+!/public/配重/24配重/IMG_20251031_161419.jpg
+!/public/配重/24配重/IMG_20251031_161421.jpg
+!/public/液压安全联轴器/
+!/public/液压安全联轴器/新建文件夹/
+!/public/液压安全联轴器/新建文件夹/WPS图片批量处理/
+!/public/液压安全联轴器/新建文件夹/WPS图片批量处理/IMG_20260409_172611.jpg
+!/public/液压安全联轴器/新建文件夹/WPS图片批量处理/IMG_20260409_172629.jpg
+!/public/液压安全联轴器/新建文件夹/WPS图片批量处理/IMG_20260409_172636.jpg
+!/public/液压安全联轴器/新建文件夹/WPS图片批量处理/IMG_20260409_172655.jpg
