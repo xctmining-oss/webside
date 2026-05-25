@@ -7,15 +7,15 @@
   <meta name="description" content="XCT Mining manufactures aftermarket crusher wear and spare parts including cone crusher liners, bronze bushings, lock nuts, counterweights and hydraulic safety couplings for Metso and Sandvik series crushers.">
   <meta name="robots" content="index,follow,max-image-preview:large">
   <meta name="yandex-verification" content="replace-with-yandex-webmaster-code">
-  <link rel="canonical" href="https://www.xctcrusherparts.com/">
-  <link rel="alternate" hreflang="en" href="https://www.xctcrusherparts.com/">
-  <link rel="alternate" hreflang="ru" href="https://www.xctcrusherparts.com/ru.html">
-  <link rel="alternate" hreflang="es" href="https://www.xctcrusherparts.com/es.html">
-  <link rel="alternate" hreflang="x-default" href="https://www.xctcrusherparts.com/">
+  <link rel="canonical" href="https://www.xctmining.com/">
+  <link rel="alternate" hreflang="en" href="https://www.xctmining.com/">
+  <link rel="alternate" hreflang="ru" href="https://www.xctmining.com/ru.html">
+  <link rel="alternate" hreflang="es" href="https://www.xctmining.com/es.html">
+  <link rel="alternate" hreflang="x-default" href="https://www.xctmining.com/">
   <meta property="og:title" content="Aftermarket Crusher Wear & Spare Parts | XCT Mining">
   <meta property="og:description" content="Manganese liners, bronze bushings, lock nuts, counterweights and hydraulic safety couplings for Metso and Sandvik series crushers.">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="https://www.xctcrusherparts.com/assets/crusher-parts-hero.png">
+  <meta property="og:image" content="https://www.xctmining.com/assets/crusher-parts-hero.png">
   <link rel="stylesheet" href="styles.css">
   <script type="application/ld+json">
   {
@@ -23,10 +23,10 @@
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://www.xctcrusherparts.com/#organization",
+        "@id": "https://www.xctmining.com/#organization",
         "name": "Ma'anshan Xct Mining Engineering Machinery Technology Co., Ltd.",
         "alternateName": "XCT Mining",
-        "url": "https://www.xctcrusherparts.com/",
+        "url": "https://www.xctmining.com/",
         "foundingDate": "2013-01-06",
         "description": "Manufacturer and trading company for crusher wear parts and crusher spare parts, including jaw plates, bowl liners, copper parts, cone crusher spares, VSI rotor parts and custom machined components.",
         "address": {
@@ -41,15 +41,15 @@
       },
       {
         "@type": "WebSite",
-        "@id": "https://www.xctcrusherparts.com/#website",
-        "url": "https://www.xctcrusherparts.com/",
+        "@id": "https://www.xctmining.com/#website",
+        "url": "https://www.xctmining.com/",
         "name": "XCT Mining Crusher Parts",
-        "publisher": {"@id": "https://www.xctcrusherparts.com/#organization"},
+        "publisher": {"@id": "https://www.xctmining.com/#organization"},
         "inLanguage": "en"
       },
       {
         "@type": "FAQPage",
-        "@id": "https://www.xctcrusherparts.com/#faq",
+        "@id": "https://www.xctmining.com/#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -149,6 +149,24 @@
             <button type="button" class="chip-button" data-search="lock nut">Lock nut</button>
           </div>
           <p class="helper-text">Tip: if the exact part number is uncertain, send photos, nameplate images and key dimensions. XCT can quote from drawings, samples or used-part photos.</p>
+          <div class="finder-selectors" aria-label="Model and part selectors">
+            <div>
+              <span class="selector-label">Common models</span>
+              <div class="selector-grid">
+                <button type="button" class="selector-card" data-search="HP300 mantle"><strong>HP300</strong><span>Mantle / bowl liner</span></button>
+                <button type="button" class="selector-card" data-search="CH440 bowl liner"><strong>CH440</strong><span>Bowl liner / concave</span></button>
+                <button type="button" class="selector-card" data-search="GP200 eccentric bushing"><strong>GP200</strong><span>Eccentric bushing</span></button>
+              </div>
+            </div>
+            <div>
+              <span class="selector-label">Part families</span>
+              <div class="selector-grid">
+                <button type="button" class="selector-card" data-search="bronze bushing"><strong>Bushings</strong><span>Bronze sleeves</span></button>
+                <button type="button" class="selector-card" data-search="lock nut"><strong>Lock nuts</strong><span>Torch rings</span></button>
+                <button type="button" class="selector-card" data-search="counterweight"><strong>Counterweights</strong><span>Cast steel parts</span></button>
+              </div>
+            </div>
+          </div>
         </div>
         <div class="finder-results" aria-live="polite">
           <a class="finder-result" href="en-cone-crusher-liners.html" data-keywords="hp100 hp200 hp300 hp400 hp500 gp100 gp200 gp300 gp500 ch420 ch430 ch440 ch660 ch880 cs420 cs440 cs660 mantle bowl liner concave cone crusher liner">
@@ -392,12 +410,15 @@
           </ul>
         </div>
       </div>
-      <form class="quote-form" action="mailto:leon@xctmining.com" method="post" enctype="text/plain">
+      <form class="quote-form" action="mailto:leon@xctmining.com" method="post" enctype="text/plain" data-rfq-endpoint="https://tygkgadrdfdyxzajrsvm.supabase.co/functions/v1/submit-rfq">
+        <label>Customer name<input name="Customer name" autocomplete="name" placeholder="Your name or company"></label>
+        <label>Email or WhatsApp<input name="Customer contact" autocomplete="email" placeholder="email@example.com / WhatsApp number" required></label>
         <label>Crusher model<input name="Crusher model" placeholder="e.g. HP300 / CH440 / GP200"></label>
-        <label>Part required<input name="Part required" placeholder="e.g. bowl liner, eccentric bushing, lock nut"></label>
+        <label>Part required<input name="Part required" placeholder="e.g. bowl liner, eccentric bushing, lock nut" required></label>
         <label>Quantity<input name="Quantity" placeholder="e.g. 2 pcs"></label>
         <label>Destination country<input name="Destination country" placeholder="e.g. Chile, Kazakhstan, South Africa"></label>
         <label>Message<textarea name="Message" rows="5" placeholder="Add part number, material, drawing link or current wear issue"></textarea></label>
+        <label class="hp-field" aria-hidden="true" tabindex="-1">Website<input name="Website" autocomplete="off" tabindex="-1"></label>
         <div class="quote-actions">
           <button class="button primary" type="submit">Email RFQ</button>
           <a class="button whatsapp" id="whatsapp-rfq" href="https://wa.me/8613013110975" target="_blank" rel="noopener">WhatsApp RFQ</a>

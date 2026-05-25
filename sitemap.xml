@@ -2,77 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.xctcrusherparts.com/</loc>
+    <loc>https://www.xctmining.com/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.xctcrusherparts.com/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://www.xctcrusherparts.com/ru.html"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.xctcrusherparts.com/es.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.xctmining.com/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.xctmining.com/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.xctmining.com/es.html"/>
   </url>
   <url>
-    <loc>https://www.xctcrusherparts.com/ru.html</loc>
+    <loc>https://www.xctmining.com/ru.html</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.xctcrusherparts.com/es.html</loc>
+    <loc>https://www.xctmining.com/es.html</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.xctcrusherparts.com/en-cone-crusher-liners.html</loc>
+    <loc>https://www.xctmining.com/en-cone-crusher-liners.html</loc>
     <lastmod>2026-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.xctcrusherparts.com/en-hydraulic-safety-couplings.html</loc>
+    <loc>https://www.xctmining.com/en-hydraulic-safety-couplings.html</loc>
     <lastmod>2026-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.xctcrusherparts.com/en-bronze-bushings.html</loc>
+    <loc>https://www.xctmining.com/en-bronze-bushings.html</loc>
     <lastmod>2026-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.xctcrusherparts.com/en-lock-nuts.html</loc>
+    <loc>https://www.xctmining.com/en-lock-nuts.html</loc>
     <lastmod>2026-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.xctcrusherparts.com/en-counterweights.html</loc>
+    <loc>https://www.xctmining.com/en-counterweights.html</loc>
     <lastmod>2026-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.xctcrusherparts.com/en-jaw-vsi-parts.html</loc>
+    <loc>https://www.xctmining.com/en-jaw-vsi-parts.html</loc>
     <lastmod>2026-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.xctcrusherparts.com/guide-manganese-liner-materials.html</loc>
+    <loc>https://www.xctmining.com/guide-manganese-liner-materials.html</loc>
     <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.xctcrusherparts.com/guide-hp300-liner-rfq.html</loc>
+    <loc>https://www.xctmining.com/guide-hp300-liner-rfq.html</loc>
     <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.xctcrusherparts.com/guide-eccentric-bushing-wear.html</loc>
+    <loc>https://www.xctmining.com/guide-eccentric-bushing-wear.html</loc>
     <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.xctmining.com/ru-guide-manganese-liner-materials.html</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.xctmining.com/ru-guide-hp300-liner-rfq.html</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.xctmining.com/ru-guide-eccentric-bushing-wear.html</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.xctmining.com/es-guide-manganese-liner-materials.html</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.xctmining.com/es-guide-hp300-liner-rfq.html</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.xctmining.com/es-guide-eccentric-bushing-wear.html</loc>
+    <lastmod>2026-05-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

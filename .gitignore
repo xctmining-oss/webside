@@ -26,6 +26,12 @@ out/
 .vercel/
 .netlify/
 
+# Local/generated assets not referenced by the static site
+/assets/generated/
+
+# Backend source is deployed separately, not as Cloudflare Pages static output
+/supabase/
+
 # Logs and diagnostics
 *.log
 npm-debug.log*
@@ -102,3 +108,9 @@ lighthouse*.json
 !/public/液压安全联轴器/新建文件夹/WPS图片批量处理/IMG_20260409_172629.jpg
 !/public/液压安全联轴器/新建文件夹/WPS图片批量处理/IMG_20260409_172636.jpg
 !/public/液压安全联轴器/新建文件夹/WPS图片批量处理/IMG_20260409_172655.jpg
+# Referenced ceramic pin detail images
+!/public/高锰合金耐磨件/
+!/public/高锰合金耐磨件/陶瓷钉细节图/
+!/public/高锰合金耐磨件/陶瓷钉细节图/陶瓷钉1.jpg
+!/public/高锰合金耐磨件/陶瓷钉细节图/陶瓷钉2.jpg
+!/public/高锰合金耐磨件/陶瓷钉细节图/陶瓷钉5.jpg

@@ -142,7 +142,7 @@
 ## SEO 与结构化数据
 
 - `index.html` 已包含 `Organization`、`WebSite`、`FAQPage` JSON-LD。
-- 英文首页 canonical 是 `https://www.xctcrusherparts.com/`。
+- 英文首页 canonical 是 `https://www.xctmining.com/`。
 - 英文首页 hreflang 包含 `en`、`ru`、`es`、`x-default`。
 - `ru.html` 和 `es.html` 有 canonical 与 hreflang。
 - `zh.html` 和中文产品详情页目前是 `noindex,nofollow`，不要误删，除非明确要让中文页被索引。

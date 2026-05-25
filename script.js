@@ -6,8 +6,17 @@ const partSearch = document.querySelector("#part-search");
 const finderResults = Array.from(document.querySelectorAll(".finder-result"));
 const quickSearches = document.querySelectorAll("[data-search]");
 
+function getRfqEndpoint() {
+  if (!form) return "";
+  const endpoint = (window.XCT_RFQ_ENDPOINT || form.dataset.rfqEndpoint || "").trim();
+  if (!endpoint || endpoint.includes("YOUR_PROJECT_REF")) return "";
+  return endpoint;
+}
+
 function buildRfqText(data) {
   return (
+    `Customer name: ${data.get("Customer name") || ""}\n` +
+    `Customer contact: ${data.get("Customer contact") || ""}\n` +
     `Crusher model: ${data.get("Crusher model") || ""}\n` +
     `Part required: ${data.get("Part required") || ""}\n` +
     `Quantity: ${data.get("Quantity") || ""}\n` +
@@ -33,7 +42,42 @@ function updateRfqLinks() {
 
 if (form) {
   form.addEventListener("input", updateRfqLinks);
-  form.addEventListener("submit", updateRfqLinks);
+  form.addEventListener("submit", async (event) => {
+    updateRfqLinks();
+    const endpoint = getRfqEndpoint();
+    if (!endpoint) return;
+
+    event.preventDefault();
+    const data = new FormData(form);
+    if (formStatus) formStatus.textContent = "Sending RFQ...";
+
+    try {
+      const response = await fetch(endpoint, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          customerName: data.get("Customer name") || "",
+          customerContact: data.get("Customer contact") || "",
+          crusherModel: data.get("Crusher model") || "",
+          partRequired: data.get("Part required") || "",
+          quantity: data.get("Quantity") || "",
+          destinationCountry: data.get("Destination country") || "",
+          message: data.get("Message") || "",
+          website: data.get("Website") || "",
+          sourcePage: window.location.href,
+          pageLanguage: document.documentElement.lang || "en",
+        }),
+      });
+
+      if (!response.ok) throw new Error("RFQ request failed");
+
+      form.reset();
+      updateRfqLinks();
+      if (formStatus) formStatus.textContent = "Thank you. Your RFQ has been sent to XCT Mining.";
+    } catch {
+      if (formStatus) formStatus.textContent = "Submission failed. Please use Email RFQ or WhatsApp RFQ.";
+    }
+  });
   updateRfqLinks();
 }
 
