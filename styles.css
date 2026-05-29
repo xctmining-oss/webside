@@ -51,10 +51,12 @@ a { color: inherit; text-decoration: none; }
 .brand-mark {
   display: inline-grid;
   place-items: center;
-  width: 42px;
-  height: 42px;
-  color: var(--white);
-  background: var(--orange);
+  flex: 0 0 auto;
+  width: 54px;
+  height: 54px;
+  color: transparent;
+  background: url("public/公司资料/公司logo(1).png") center / contain no-repeat;
+  font-size: 0;
   font-weight: 800;
 }
 
@@ -261,6 +263,7 @@ h3 {
 
 .finder-panel,
 .finder-result,
+.showcase-card,
 .proof-grid article,
 .proof-checklist,
 .article-card,
@@ -381,11 +384,64 @@ h3 {
 }
 
 .finder-result span,
+.showcase-card p,
 .article-card p,
 .proof-grid p,
 .proof-checklist li,
 .rfq-checklist li {
   color: var(--muted);
+}
+
+.product-showcase {
+  padding-top: 32px;
+}
+
+.showcase-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 18px;
+}
+
+.showcase-card {
+  display: grid;
+  grid-template-rows: 220px auto auto 1fr;
+  overflow: hidden;
+  min-height: 410px;
+  background: var(--white);
+  transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.showcase-card:hover,
+.showcase-card:focus-visible {
+  transform: translateY(-3px);
+  border-color: var(--orange);
+  box-shadow: 0 14px 34px rgba(22, 34, 45, 0.12);
+  outline: none;
+}
+
+.showcase-card img {
+  display: block;
+  width: 100%;
+  height: 220px;
+  object-fit: contain;
+  object-position: center;
+  background: var(--white);
+  border-bottom: 1px solid var(--line);
+}
+
+.showcase-card .product-code,
+.showcase-card h3,
+.showcase-card p {
+  margin-left: 22px;
+  margin-right: 22px;
+}
+
+.showcase-card .product-code {
+  margin-top: 22px;
+}
+
+.showcase-card h3 {
+  min-height: 58px;
 }
 
 .detail-media {
@@ -759,12 +815,16 @@ textarea { resize: vertical; }
 .footer p { margin-bottom: 5px; color: #aeb9c6; }
 .footer a { display: block; margin-bottom: 8px; color: #ffffff; }
 
+@media (max-width: 1180px) {
+  .showcase-grid { grid-template-columns: repeat(3, 1fr); }
+}
+
 @media (max-width: 920px) {
   .site-header { align-items: flex-start; flex-direction: column; padding-top: 12px; padding-bottom: 12px; }
   .nav { flex-wrap: wrap; gap: 12px; }
   .hero { min-height: 600px; }
   .hero-overlay { background: rgba(12, 18, 24, 0.76); }
-  .trust-strip, .product-grid, .process-grid, .proof-grid, .article-grid { grid-template-columns: repeat(2, 1fr); }
+  .trust-strip, .product-grid, .process-grid, .proof-grid, .article-grid, .showcase-grid { grid-template-columns: repeat(2, 1fr); }
   .intro, .split, .applications, .quote-section, .detail-copy, .finder-layout, .ceramic-layout { grid-template-columns: 1fr; gap: 28px; }
 }
 
@@ -823,11 +883,12 @@ textarea { resize: vertical; }
   .hero-actions .button {
     width: 100%;
   }
-  .trust-strip, .product-grid, .process-grid, .application-list, .detail-gallery, .ceramic-gallery, .proof-grid, .article-grid { grid-template-columns: 1fr; }
+  .trust-strip, .product-grid, .process-grid, .application-list, .detail-gallery, .ceramic-gallery, .proof-grid, .article-grid, .showcase-grid { grid-template-columns: 1fr; }
   .section { padding: 70px 0; }
   .quote-section { padding: 28px; margin-bottom: 70px; }
   .finder-panel,
   .finder-result,
+  .showcase-card,
   .product-card,
   .proof-grid article,
   .article-card,

@@ -15,13 +15,44 @@ Official independent website profile for Ma'anshan Xct Mining Engineering Machin
 ## Main Products
 
 - Cone crusher liners: mantles, bowl liners, concaves
+- Jaw crusher plates: fixed jaw plates, movable jaw plates, cheek plates, wedges and jaw crusher spare parts
 - Crusher bronze and copper parts: eccentric bushings, sleeves, socket liners, frame bushings
 - Crusher mechanical spare parts: lock nuts, mantle nuts, torch rings, feed cones, retaining hardware
 - Cast steel cone crusher counterweights
 - Hydraulic safety couplings and crusher protection components
-- Jaw crusher plates and jaw crusher spare parts
 - VSI crusher rotor tips and Barmac-style rotor parts
 - Custom crusher wear parts and machined spare parts from drawings or samples
+
+## Key English SEO Pages
+
+- Cone crusher liners: en-cone-crusher-liners.html
+- Jaw plates and VSI rotor parts: en-jaw-vsi-parts.html
+- Crusher bronze bushings: en-bronze-bushings.html
+- Crusher lock nuts and mechanical spare parts: en-lock-nuts.html
+- Cone crusher counterweights: en-counterweights.html
+- Hydraulic safety couplings: en-hydraulic-safety-couplings.html
+- Metso HP series crusher parts replacement: metso-hp-series-crusher-parts.html
+- Metso GP series crusher parts replacement: metso-gp-series-crusher-parts.html
+- Sandvik CH series crusher parts replacement: sandvik-ch-series-crusher-parts.html
+- Sandvik CS series crusher parts replacement: sandvik-cs-series-crusher-parts.html
+- HP300 cone crusher parts: hp300-cone-crusher-parts.html
+- HP500 cone crusher parts: hp500-cone-crusher-parts.html
+- CH440 cone crusher parts: ch440-cone-crusher-parts.html
+- C125 jaw crusher parts: c125-jaw-crusher-parts.html
+- Crusher parts by reference number: crusher-parts-by-reference-number.html
+- Crusher parts quality inspection: quality-inspection.html
+- Mn13 vs Mn18 vs Mn22 liner guide: guide-manganese-liner-materials.html
+- HP300 liner RFQ checklist: guide-hp300-liner-rfq.html
+- Eccentric bushing wear guide: guide-eccentric-bushing-wear.html
+
+## Buyer RFQ Fields
+
+- Crusher model or machine series
+- Part name and OEM reference number if available
+- Drawing, sample, used-part photos or nameplate photos
+- Material request such as Mn13Cr2, Mn18Cr2, Mn22Cr2, bronze alloy, alloy steel or high chrome iron
+- Quantity, destination country or port, packing requirement and required delivery date
+- Working condition notes such as rock type, feed size, CSS, wear pattern and current service life
 
 ## Compatibility Notice
 
