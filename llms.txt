@@ -44,6 +44,9 @@ Official independent website profile for Ma'anshan Xct Mining Engineering Machin
 - Mn13 vs Mn18 vs Mn22 liner guide: guide-manganese-liner-materials.html
 - HP300 liner RFQ checklist: guide-hp300-liner-rfq.html
 - Eccentric bushing wear guide: guide-eccentric-bushing-wear.html
+- Weekly cone crusher wear parts RFQ guide: weekly-cone-crusher-wear-parts-rfq-guide.html
+- Russian weekly RFQ guide: ru-weekly-cone-crusher-wear-parts-rfq-guide.html
+- Spanish weekly RFQ guide: es-weekly-cone-crusher-wear-parts-rfq-guide.html
 
 ## Buyer RFQ Fields
 
@@ -61,3 +64,7 @@ XCT Mining is an independent aftermarket supplier. Metso, Nordberg, Sandvik, Bar
 ## RFQ Requirements
 
 For accurate quotes, buyers should provide crusher model, part name, OEM reference number if available, drawing or photos, material requirement, quantity, destination country or port, and required delivery date.
+
+## Weekly Article Topic
+
+The June 3, 2026 weekly article explains how buyers should prepare a cone crusher wear parts RFQ. It asks buyers to send exact crusher model, part name, reference number, old-part photos, feed material, feed size, CSS, wear pattern, material target, quantity, destination port and delivery date. The article reinforces independent aftermarket compatibility language for Metso, Nordberg, Sandvik, Barmac and similar machine references.
