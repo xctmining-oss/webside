@@ -149,6 +149,13 @@
 - 首页有占位的 Yandex 验证码：`replace-with-yandex-webmaster-code`，上线时应替换为真实验证码。
 - `sitemap.xml` 更新页面时要同步维护，尤其是新增英文 SEO 页面或改变 URL 后。
 
+## 多语言同步规则
+
+- 英文首页或英文可索引页面新增结构、产品图库、型号/系列入口、质量入口、RFQ 入口、导航或底部链接时，需要同步检查并更新 `zh.html`、`ru.html`、`es.html`。
+- `zh.html` 和中文详情页默认保持 `noindex,nofollow`，除非用户明确要求中文站参与索引。
+- 新增正式可索引英文页面时，同步更新 `sitemap.xml`、首页内链、`llms.txt`/`ai.txt` 中必要摘要，并检查俄语、西语首页是否需要增加入口。
+- 涉及商标或适配机型的多语言文案，必须继续使用 independent aftermarket / replacement parts / compatible with 的合规口径。
+
 ## 内容写作原则
 
 - 用采购员语言写清楚：是什么零件、适配哪些机型、常见材质、生产/检测点、询价需要什么信息。
