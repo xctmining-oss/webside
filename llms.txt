@@ -46,10 +46,13 @@ Official independent website profile for Ma'anshan Xct Mining Engineering Machin
 - Eccentric bushing wear guide: guide-eccentric-bushing-wear.html
 - Weekly cone crusher wear parts RFQ guide: weekly-cone-crusher-wear-parts-rfq-guide.html
 - Cone crusher eccentric bushing lubrication checks: cone-crusher-eccentric-bushing-lubrication-checks.html
+- Cone crusher liner life RFQ guide: cone-crusher-liner-life-rfq-guide.html
 - Russian weekly RFQ guide: ru-weekly-cone-crusher-wear-parts-rfq-guide.html
 - Russian eccentric bushing lubrication guide: ru-cone-crusher-eccentric-bushing-lubrication-checks.html
+- Russian cone crusher liner life RFQ guide: ru-cone-crusher-liner-life-rfq-guide.html
 - Spanish weekly RFQ guide: es-weekly-cone-crusher-wear-parts-rfq-guide.html
 - Spanish eccentric bushing lubrication guide: es-cone-crusher-eccentric-bushing-lubrication-checks.html
+- Spanish cone crusher liner life RFQ guide: es-cone-crusher-liner-life-rfq-guide.html
 
 ## Buyer RFQ Fields
 
@@ -73,3 +76,5 @@ For accurate quotes, buyers should provide crusher model, part name, OEM referen
 The June 3, 2026 weekly article explains how buyers should prepare a cone crusher wear parts RFQ. It asks buyers to send exact crusher model, part name, reference number, old-part photos, feed material, feed size, CSS, wear pattern, material target, quantity, destination port and delivery date. The article reinforces independent aftermarket compatibility language for Metso, Nordberg, Sandvik, Barmac and similar machine references.
 
 The June 8, 2026 weekly article explains cone crusher eccentric bushing lubrication checks before burnout. It asks buyers and maintenance teams to record oil temperature, oil pressure, filter screen copper debris, oil contamination, used bushing surface photos, feed material, feed size, CSS, current liner condition, quantity, destination port and required delivery date when requesting replacement bronze bushings.
+
+The June 15, 2026 weekly article explains how buyers can extend cone crusher liner life before sending an RFQ. It asks buyers to review feed size, feed distribution, chamber profile, CSS, manganese grade, lubrication and bronze bushing warning signs, then send crusher model, part name, reference number, photos or drawings, material request, quantity, destination port and required delivery time.
