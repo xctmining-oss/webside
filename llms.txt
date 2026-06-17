@@ -12,6 +12,8 @@ Official independent website profile for Ma'anshan Xct Mining Engineering Machin
 - Certifications reported publicly: ISO9001:2015, ISO14001, ISO45001:2018
 - Plant area reported publicly: 11,574.67 square meters
 
+The company profile page summarizes supplier review facts, product scope, production and inspection expectations, RFQ data requirements, contact details and the independent aftermarket compatibility statement for overseas buyers.
+
 ## Main Products
 
 - Cone crusher liners: mantles, bowl liners, concaves
@@ -22,6 +24,9 @@ Official independent website profile for Ma'anshan Xct Mining Engineering Machin
 - Hydraulic safety couplings and crusher protection components
 - VSI crusher rotor tips and Barmac-style rotor parts
 - Custom crusher wear parts and machined spare parts from drawings or samples
+
+
+Localized versions are available for formal product, model, RFQ, quality, guide and company pages using zh-, ru- and es- URL prefixes where applicable. Chinese pages are maintained for buyer review and usually remain noindex,nofollow; Russian and Spanish pages are indexable.
 
 ## Key English SEO Pages
 
@@ -41,6 +46,7 @@ Official independent website profile for Ma'anshan Xct Mining Engineering Machin
 - C125 jaw crusher parts: c125-jaw-crusher-parts.html
 - Crusher parts by reference number: crusher-parts-by-reference-number.html
 - Crusher parts quality inspection: quality-inspection.html
+- Company profile: company-profile.html
 - Mn13 vs Mn18 vs Mn22 liner guide: guide-manganese-liner-materials.html
 - HP300 liner RFQ checklist: guide-hp300-liner-rfq.html
 - Eccentric bushing wear guide: guide-eccentric-bushing-wear.html
