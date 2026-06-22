@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.xctmining.com/</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.xctmining.com/"/>
@@ -12,7 +12,7 @@
   </url>
   <url>
     <loc>https://www.xctmining.com/ru.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.xctmining.com/"/>
@@ -21,7 +21,7 @@
   </url>
   <url>
     <loc>https://www.xctmining.com/es.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.xctmining.com/"/>
@@ -648,5 +648,32 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.xctmining.com/cone-crusher-liner-life-rfq-guide.html"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://www.xctmining.com/ru-cone-crusher-liner-life-rfq-guide.html"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.xctmining.com/es-cone-crusher-liner-life-rfq-guide.html"/>
+  </url>
+  <url>
+    <loc>https://www.xctmining.com/jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.xctmining.com/jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.xctmining.com/ru-jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.xctmining.com/es-jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html"/>
+  </url>
+  <url>
+    <loc>https://www.xctmining.com/ru-jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.xctmining.com/jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.xctmining.com/ru-jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.xctmining.com/es-jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html"/>
+  </url>
+  <url>
+    <loc>https://www.xctmining.com/es-jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.xctmining.com/jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.xctmining.com/ru-jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.xctmining.com/es-jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html"/>
   </url>
 </urlset>
