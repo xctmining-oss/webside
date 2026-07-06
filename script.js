@@ -75,7 +75,9 @@ if (form) {
       updateRfqLinks();
       if (formStatus) formStatus.textContent = "Thank you. Your RFQ has been sent to XCT Mining.";
     } catch {
-      if (formStatus) formStatus.textContent = "Submission failed. Please use Email RFQ or WhatsApp RFQ.";
+      updateRfqLinks();
+      if (formStatus) formStatus.textContent = "Online submission failed. Opening Email RFQ fallback.";
+      window.location.href = form.action;
     }
   });
   updateRfqLinks();
