@@ -1,0 +1,42 @@
+{
+  "routes": [
+    {
+      "src": "/AGENTS\\.md",
+      "dest": "/404.html",
+      "status": 404
+    },
+    {
+      "src": "/seo-action-plan\\.zh-CN\\.md",
+      "dest": "/404.html",
+      "status": 404
+    },
+    {
+      "src": "/.*\\.zh-CN\\.md",
+      "dest": "/404.html",
+      "status": 404
+    },
+    {
+      "src": "/\\.codex(?:/.*)?",
+      "dest": "/404.html",
+      "status": 404
+    },
+    {
+      "src": "/supabase(?:/.*)?",
+      "dest": "/404.html",
+      "status": 404
+    },
+    {
+      "src": "/tools(?:/.*)?",
+      "dest": "/404.html",
+      "status": 404
+    },
+    {
+      "src": "/\\.git(?:/.*)?",
+      "dest": "/404.html",
+      "status": 404
+    },
+    {
+      "handle": "filesystem"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+AGENTS.md
+seo-action-plan.zh-CN.md
+*.zh-CN.md
+.codex/
+supabase/
+tools/
+output/
+tmp/
