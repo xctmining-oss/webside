@@ -923,19 +923,22 @@ textarea { resize: vertical; }
   body * {
     max-width: 100%;
     min-width: 0;
-    overflow-wrap: anywhere;
+    overflow-wrap: break-word;
   }
   .nav { width: 100%; font-size: 13px; gap: 10px; }
   h1 { font-size: 28px; line-height: 1.14; }
   h2 { font-size: 24px; line-height: 1.18; }
-  h1, h2, h3, p, a, span, li {
+  h1, h2, h3, p, span, li {
+    overflow-wrap: normal;
+    word-break: normal;
+  }
+  a {
     overflow-wrap: anywhere;
-    word-break: break-all;
   }
   .hero h1,
   .section-heading h2,
   .intro h2 {
-    word-break: break-all;
+    word-break: normal;
   }
   .hero-copy { font-size: 18px; }
   .hero-content {

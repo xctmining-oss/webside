@@ -28,6 +28,8 @@ The company profile page summarizes supplier review facts, product scope, produc
 
 Localized versions are available for formal product, model, RFQ, quality, guide and company pages using zh-, ru- and es- URL prefixes where applicable. Chinese pages are maintained for buyer review and usually remain noindex,nofollow; Russian and Spanish pages are indexable.
 
+The privacy policy explains how website inquiries and RFQ information are handled, including contact details, crusher and part data, drawings and photos, technical submission data, service providers, retention, cross-border processing and privacy requests. English, Russian, Spanish and Chinese versions are available.
+
 ## Key English SEO Pages
 
 - Cone crusher liners: en-cone-crusher-liners.html
@@ -47,6 +49,7 @@ Localized versions are available for formal product, model, RFQ, quality, guide 
 - Crusher parts by reference number: crusher-parts-by-reference-number.html
 - Crusher parts quality inspection: quality-inspection.html
 - Company profile: company-profile.html
+- Privacy policy: privacy-policy.html
 - Mn13 vs Mn18 vs Mn22 liner guide: guide-manganese-liner-materials.html
 - HP300 liner RFQ checklist: guide-hp300-liner-rfq.html
 - Eccentric bushing wear guide: guide-eccentric-bushing-wear.html
@@ -55,16 +58,19 @@ Localized versions are available for formal product, model, RFQ, quality, guide 
 - Cone crusher liner life RFQ guide: cone-crusher-liner-life-rfq-guide.html
 - Jaw crusher jaw plates and cheek plates RFQ guide: jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html
 - Cone crusher hydraulic tramp release RFQ guide: cone-crusher-hydraulic-tramp-release-rfq-guide.html
+- VSI rotor tip and distributor plate RFQ guide: vsi-rotor-tip-distributor-plate-rfq-checklist.html
 - Russian weekly RFQ guide: ru-weekly-cone-crusher-wear-parts-rfq-guide.html
 - Russian eccentric bushing lubrication guide: ru-cone-crusher-eccentric-bushing-lubrication-checks.html
 - Russian cone crusher liner life RFQ guide: ru-cone-crusher-liner-life-rfq-guide.html
 - Russian jaw crusher jaw plates and cheek plates RFQ guide: ru-jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html
 - Russian cone crusher hydraulic tramp release RFQ guide: ru-cone-crusher-hydraulic-tramp-release-rfq-guide.html
+- Russian VSI rotor tip RFQ guide: ru-vsi-rotor-tip-distributor-plate-rfq-checklist.html
 - Spanish weekly RFQ guide: es-weekly-cone-crusher-wear-parts-rfq-guide.html
 - Spanish eccentric bushing lubrication guide: es-cone-crusher-eccentric-bushing-lubrication-checks.html
 - Spanish cone crusher liner life RFQ guide: es-cone-crusher-liner-life-rfq-guide.html
 - Spanish jaw crusher jaw plates and cheek plates RFQ guide: es-jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html
 - Spanish cone crusher hydraulic tramp release RFQ guide: es-cone-crusher-hydraulic-tramp-release-rfq-guide.html
+- Spanish VSI rotor tip RFQ guide: es-vsi-rotor-tip-distributor-plate-rfq-checklist.html
 
 ## Buyer RFQ Fields
 
@@ -94,3 +100,5 @@ The June 15, 2026 weekly article explains how buyers can extend cone crusher lin
 The June 22, 2026 weekly article explains how buyers can prepare a clearer RFQ for jaw crusher jaw plates, cheek plates, wedges and related fitting hardware. It asks buyers to describe the machine model, fixed or movable jaw plate, cheek plate layout, tooth profile, wear pattern, key dimensions, manganese material request, feed condition, quantity, destination port and required delivery time.
 
 The July 6, 2026 weekly article explains how buyers can prepare an RFQ for cone crusher hydraulic tramp release, cavity clearing and protection parts. It asks buyers to send crusher model, serial plate photo, part name, reference number, installed-part photos, connection type, thread size, hose length, fitting orientation, cylinder dimensions, pressure data, quantity, destination port and required delivery time.
+
+The July 11, 2026 weekly article explains how buyers can prepare an RFQ for VSI rotor tips, backup tips, distributor plates, wear plates, feed tubes and Barmac-style rotor parts. It asks buyers to send crusher model, rotor type or rotor photos, part name, reference number, old-part photos, wear pattern, processed material, maximum feed size, application, current service life, quantity, destination port and required delivery date.
