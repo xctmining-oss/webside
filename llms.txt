@@ -1,109 +1,76 @@
 # XCT Mining Crusher Parts
 
-Official independent website profile for Ma'anshan Xct Mining Engineering Machinery Technology Co., Ltd.
+> Official AI-readable profile for Ma'anshan Xct Mining Engineering Machinery Technology Co., Ltd. (XCT Mining), an independent Chinese supplier of aftermarket crusher wear parts and spare parts.
 
-## Company
+XCT Mining supplies replacement parts for cone, jaw and VSI crushers. Buyers can request parts by crusher model, part name, reference number, drawing, sample or used-part photo. Core product groups include cone crusher liners, bronze bushings, lock nuts, counterweights, hydraulic safety couplings, jaw plates and VSI rotor parts.
 
+Canonical website: [https://www.xctmining.com/](https://www.xctmining.com/)
+
+## Company and trust
+
+- [Company profile](https://www.xctmining.com/company-profile): Legal company name, establishment date, location, reported plant area, certifications, production scope and supplier-review information.
+- [Quality inspection](https://www.xctmining.com/quality-inspection): Material, dimensional, machining, fit-up, packing and pre-shipment inspection expectations.
+- [Privacy policy](https://www.xctmining.com/privacy-policy): How contact details, RFQ data, drawings and photos are handled.
 - Legal name: Ma'anshan Xct Mining Engineering Machinery Technology Co., Ltd.
-- Brand name: XCT Mining
-- Established: 2013-01-06
-- Address: No. 423 Yinxing Avenue, Cihu High-Tech Zone, Ma'anshan City, Anhui Province, China
-- Business type: manufacturer/factory and trading company
-- Certifications reported publicly: ISO9001:2015, ISO14001, ISO45001:2018
-- Plant area reported publicly: 11,574.67 square meters
+- Brand: XCT Mining.
+- Established: 2013-01-06.
+- Address: No. 423 Yinxing Avenue, Cihu High-Tech Zone, Ma'anshan, Anhui, China.
+- Business type: manufacturer/factory and trading company.
+- Contact: [leon@xctmining.com](mailto:leon@xctmining.com), [WhatsApp +86 13013110975](https://wa.me/8613013110975).
 
-The company profile page summarizes supplier review facts, product scope, production and inspection expectations, RFQ data requirements, contact details and the independent aftermarket compatibility statement for overseas buyers.
+## Main product pages
 
-## Main Products
+- [Cone crusher liners](https://www.xctmining.com/en-cone-crusher-liners): Mantles, bowl liners and concaves in Mn13, Mn18 and Mn22 manganese steel.
+- [Crusher bronze bushings](https://www.xctmining.com/en-bronze-bushings): Eccentric bushings, socket liners, frame bushings, countershaft bushings and sleeves.
+- [Crusher lock nuts and mechanical spares](https://www.xctmining.com/en-lock-nuts): Lock nuts, mantle nuts, torch rings, feed cones and retaining hardware.
+- [Cone crusher counterweights](https://www.xctmining.com/en-counterweights): Cast-steel eccentric counterweights and related machined parts.
+- [Hydraulic safety couplings](https://www.xctmining.com/en-hydraulic-safety-couplings): Crusher protection and hydraulic connection components.
+- [Jaw crusher and VSI parts](https://www.xctmining.com/en-jaw-vsi-parts): Jaw plates, cheek plates, wedges, VSI rotor tips and Barmac-style rotor parts.
 
-- Cone crusher liners: mantles, bowl liners, concaves
-- Jaw crusher plates: fixed jaw plates, movable jaw plates, cheek plates, wedges and jaw crusher spare parts
-- Crusher bronze and copper parts: eccentric bushings, sleeves, socket liners, frame bushings
-- Crusher mechanical spare parts: lock nuts, mantle nuts, torch rings, feed cones, retaining hardware
-- Cast steel cone crusher counterweights
-- Hydraulic safety couplings and crusher protection components
-- VSI crusher rotor tips and Barmac-style rotor parts
-- Custom crusher wear parts and machined spare parts from drawings or samples
+## Crusher series and model compatibility
 
+- [Metso HP series replacement parts](https://www.xctmining.com/metso-hp-series-crusher-parts)
+- [Metso GP series replacement parts](https://www.xctmining.com/metso-gp-series-crusher-parts)
+- [Sandvik CH series replacement parts](https://www.xctmining.com/sandvik-ch-series-crusher-parts)
+- [Sandvik CS series replacement parts](https://www.xctmining.com/sandvik-cs-series-crusher-parts)
+- [HP300 cone crusher parts](https://www.xctmining.com/hp300-cone-crusher-parts)
+- [HP500 cone crusher parts](https://www.xctmining.com/hp500-cone-crusher-parts)
+- [CH440 cone crusher parts](https://www.xctmining.com/ch440-cone-crusher-parts)
+- [C125 jaw crusher parts](https://www.xctmining.com/c125-jaw-crusher-parts)
+- [Crusher parts by reference number](https://www.xctmining.com/crusher-parts-by-reference-number)
 
-Localized versions are available for formal product, model, RFQ, quality, guide and company pages using zh-, ru- and es- URL prefixes where applicable. Chinese pages are maintained for buyer review and usually remain noindex,nofollow; Russian and Spanish pages are indexable.
+## Technical and procurement guides
 
-The privacy policy explains how website inquiries and RFQ information are handled, including contact details, crusher and part data, drawings and photos, technical submission data, service providers, retention, cross-border processing and privacy requests. English, Russian, Spanish and Chinese versions are available.
+- [Mn13 vs Mn18 vs Mn22 liner materials](https://www.xctmining.com/guide-manganese-liner-materials): How manganese grade, feed and wear conditions affect liner selection.
+- [HP300 liner RFQ checklist](https://www.xctmining.com/guide-hp300-liner-rfq): Information needed to quote HP300 replacement liners.
+- [Eccentric bushing wear guide](https://www.xctmining.com/guide-eccentric-bushing-wear): Common wear evidence and RFQ details for replacement bushings.
+- [Cone crusher wear parts RFQ guide](https://www.xctmining.com/weekly-cone-crusher-wear-parts-rfq-guide): Model, part number, photos, feed, CSS, quantity and delivery information.
+- [Eccentric bushing lubrication checks](https://www.xctmining.com/cone-crusher-eccentric-bushing-lubrication-checks): Oil temperature, pressure, debris and wear evidence to record before replacement.
+- [Cone crusher liner life guide](https://www.xctmining.com/cone-crusher-liner-life-rfq-guide): Feed distribution, chamber, CSS, manganese grade and lubrication checks.
+- [Jaw plate and cheek plate RFQ guide](https://www.xctmining.com/jaw-crusher-jaw-plates-cheek-plates-rfq-guide): Tooth profile, wear pattern, dimensions and fitting hardware.
+- [Hydraulic tramp release RFQ guide](https://www.xctmining.com/cone-crusher-hydraulic-tramp-release-rfq-guide): Connection, pressure, cylinder and installation evidence required for identification.
+- [VSI rotor parts RFQ checklist](https://www.xctmining.com/vsi-rotor-tip-distributor-plate-rfq-checklist): Rotor type, part position, wear pattern, feed and service-life details.
+- [Cone crusher liner change-out small parts checklist](https://www.xctmining.com/cone-crusher-liner-changeout-small-parts-rfq-checklist): Torch rings, feed cones, mantle nuts, bolts and backing compound to review before shutdown.
 
-## Key English SEO Pages
+## RFQ information
 
-- Cone crusher liners: en-cone-crusher-liners.html
-- Jaw plates and VSI rotor parts: en-jaw-vsi-parts.html
-- Crusher bronze bushings: en-bronze-bushings.html
-- Crusher lock nuts and mechanical spare parts: en-lock-nuts.html
-- Cone crusher counterweights: en-counterweights.html
-- Hydraulic safety couplings: en-hydraulic-safety-couplings.html
-- Metso HP series crusher parts replacement: metso-hp-series-crusher-parts.html
-- Metso GP series crusher parts replacement: metso-gp-series-crusher-parts.html
-- Sandvik CH series crusher parts replacement: sandvik-ch-series-crusher-parts.html
-- Sandvik CS series crusher parts replacement: sandvik-cs-series-crusher-parts.html
-- HP300 cone crusher parts: hp300-cone-crusher-parts.html
-- HP500 cone crusher parts: hp500-cone-crusher-parts.html
-- CH440 cone crusher parts: ch440-cone-crusher-parts.html
-- C125 jaw crusher parts: c125-jaw-crusher-parts.html
-- Crusher parts by reference number: crusher-parts-by-reference-number.html
-- Crusher parts quality inspection: quality-inspection.html
-- Company profile: company-profile.html
-- Privacy policy: privacy-policy.html
-- Mn13 vs Mn18 vs Mn22 liner guide: guide-manganese-liner-materials.html
-- HP300 liner RFQ checklist: guide-hp300-liner-rfq.html
-- Eccentric bushing wear guide: guide-eccentric-bushing-wear.html
-- Weekly cone crusher wear parts RFQ guide: weekly-cone-crusher-wear-parts-rfq-guide.html
-- Cone crusher eccentric bushing lubrication checks: cone-crusher-eccentric-bushing-lubrication-checks.html
-- Cone crusher liner life RFQ guide: cone-crusher-liner-life-rfq-guide.html
-- Jaw crusher jaw plates and cheek plates RFQ guide: jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html
-- Cone crusher hydraulic tramp release RFQ guide: cone-crusher-hydraulic-tramp-release-rfq-guide.html
-- VSI rotor tip and distributor plate RFQ guide: vsi-rotor-tip-distributor-plate-rfq-checklist.html
-- Cone crusher liner change-out small parts RFQ checklist: cone-crusher-liner-changeout-small-parts-rfq-checklist.html
-- Russian weekly RFQ guide: ru-weekly-cone-crusher-wear-parts-rfq-guide.html
-- Russian eccentric bushing lubrication guide: ru-cone-crusher-eccentric-bushing-lubrication-checks.html
-- Russian cone crusher liner life RFQ guide: ru-cone-crusher-liner-life-rfq-guide.html
-- Russian jaw crusher jaw plates and cheek plates RFQ guide: ru-jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html
-- Russian cone crusher hydraulic tramp release RFQ guide: ru-cone-crusher-hydraulic-tramp-release-rfq-guide.html
-- Russian VSI rotor tip RFQ guide: ru-vsi-rotor-tip-distributor-plate-rfq-checklist.html
-- Russian cone crusher liner change-out small parts RFQ checklist: ru-cone-crusher-liner-changeout-small-parts-rfq-checklist.html
-- Spanish weekly RFQ guide: es-weekly-cone-crusher-wear-parts-rfq-guide.html
-- Spanish eccentric bushing lubrication guide: es-cone-crusher-eccentric-bushing-lubrication-checks.html
-- Spanish cone crusher liner life RFQ guide: es-cone-crusher-liner-life-rfq-guide.html
-- Spanish jaw crusher jaw plates and cheek plates RFQ guide: es-jaw-crusher-jaw-plates-cheek-plates-rfq-guide.html
-- Spanish cone crusher hydraulic tramp release RFQ guide: es-cone-crusher-hydraulic-tramp-release-rfq-guide.html
-- Spanish VSI rotor tip RFQ guide: es-vsi-rotor-tip-distributor-plate-rfq-checklist.html
-- Spanish cone crusher liner change-out small parts RFQ checklist: es-cone-crusher-liner-changeout-small-parts-rfq-checklist.html
+For an accurate quotation, send:
 
-## Buyer RFQ Fields
+- Crusher model, machine series and nameplate photo when available.
+- Part name and reference number.
+- Drawing, dimensions, sample or used-part photos.
+- Material request, such as Mn13Cr2, Mn18Cr2, Mn22Cr2, bronze alloy, alloy steel or high-chrome iron.
+- Quantity, destination country or port, packing requirements and required delivery date.
+- Operating evidence when relevant: rock type, feed size, CSS, wear pattern, current service life, oil temperature, oil pressure or debris photos.
 
-- Crusher model or machine series
-- Part name and OEM reference number if available
-- Drawing, sample, used-part photos or nameplate photos
-- Material request such as Mn13Cr2, Mn18Cr2, Mn22Cr2, bronze alloy, alloy steel or high chrome iron
-- Quantity, destination country or port, packing requirement and required delivery date
-- Working condition notes such as rock type, feed size, CSS, wear pattern and current service life
+## Languages and indexing
 
-## Compatibility Notice
+- English: primary indexable content.
+- Russian: indexable localized pages using the `ru-` prefix.
+- Spanish: indexable localized pages using the `es-` prefix.
+- Chinese: buyer-review pages using the `zh-` prefix; these generally remain `noindex,nofollow`.
+- [XML sitemap](https://www.xctmining.com/sitemap.xml)
 
-XCT Mining is an independent aftermarket supplier. Metso, Nordberg, Sandvik, Barmac and similar brand names are used only to identify machine compatibility. XCT Mining should not be described as an authorized dealer, distributor or affiliate of those brands unless separate legal documentation is provided.
+## Compatibility notice
 
-## RFQ Requirements
-
-For accurate quotes, buyers should provide crusher model, part name, OEM reference number if available, drawing or photos, material requirement, quantity, destination country or port, and required delivery date.
-
-## Weekly Article Topic
-
-The June 3, 2026 weekly article explains how buyers should prepare a cone crusher wear parts RFQ. It asks buyers to send exact crusher model, part name, reference number, old-part photos, feed material, feed size, CSS, wear pattern, material target, quantity, destination port and delivery date. The article reinforces independent aftermarket compatibility language for Metso, Nordberg, Sandvik, Barmac and similar machine references.
-
-The June 8, 2026 weekly article explains cone crusher eccentric bushing lubrication checks before burnout. It asks buyers and maintenance teams to record oil temperature, oil pressure, filter screen copper debris, oil contamination, used bushing surface photos, feed material, feed size, CSS, current liner condition, quantity, destination port and required delivery date when requesting replacement bronze bushings.
-
-The June 15, 2026 weekly article explains how buyers can extend cone crusher liner life before sending an RFQ. It asks buyers to review feed size, feed distribution, chamber profile, CSS, manganese grade, lubrication and bronze bushing warning signs, then send crusher model, part name, reference number, photos or drawings, material request, quantity, destination port and required delivery time.
-
-The June 22, 2026 weekly article explains how buyers can prepare a clearer RFQ for jaw crusher jaw plates, cheek plates, wedges and related fitting hardware. It asks buyers to describe the machine model, fixed or movable jaw plate, cheek plate layout, tooth profile, wear pattern, key dimensions, manganese material request, feed condition, quantity, destination port and required delivery time.
-
-The July 6, 2026 weekly article explains how buyers can prepare an RFQ for cone crusher hydraulic tramp release, cavity clearing and protection parts. It asks buyers to send crusher model, serial plate photo, part name, reference number, installed-part photos, connection type, thread size, hose length, fitting orientation, cylinder dimensions, pressure data, quantity, destination port and required delivery time.
-
-The July 11, 2026 weekly article explains how buyers can prepare an RFQ for VSI rotor tips, backup tips, distributor plates, wear plates, feed tubes and Barmac-style rotor parts. It asks buyers to send crusher model, rotor type or rotor photos, part name, reference number, old-part photos, wear pattern, processed material, maximum feed size, application, current service life, quantity, destination port and required delivery date.
-
-The July 20, 2026 weekly article explains how buyers can prepare a cone crusher liner change-out small parts RFQ. It asks buyers to check mantle, bowl liner, torch ring or cutting ring, feed cone, feed plate, mantle nut, lock nut, locking bolt, square-head bolts, backing compound, liner profile, cavity type, old-part photos, material request, feed material, maximum feed size, CSS, wear pattern, quantity, destination port and required delivery date.
+XCT Mining is an independent aftermarket supplier. Metso, Nordberg, Sandvik, Barmac, Terex, Cedarapids, Symons and similar names are used only to identify compatible replacement applications. All trademarks belong to their respective owners. Their use does not indicate OEM status, authorization, dealership, distribution or affiliation.
