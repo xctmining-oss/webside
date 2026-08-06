@@ -52,6 +52,7 @@ Canonical website: [https://www.xctmining.com/](https://www.xctmining.com/)
 - [VSI rotor parts RFQ checklist](https://www.xctmining.com/vsi-rotor-tip-distributor-plate-rfq-checklist): Rotor type, part position, wear pattern, feed and service-life details.
 - [Cone crusher liner change-out small parts checklist](https://www.xctmining.com/cone-crusher-liner-changeout-small-parts-rfq-checklist): Torch rings, feed cones, mantle nuts, bolts and backing compound to review before shutdown.
 - [Vibrating grizzly feeder bars and pan liners RFQ checklist](https://www.xctmining.com/vibrating-grizzly-feeder-bars-pan-liners-rfq-checklist): Dimensions, hole layout, bar gap, material, photos and site conditions for grizzly bars, pan liners, side liners and feeder wear plates.
+- [Cone crusher bronze bushings and sleeves RFQ guide](https://www.xctmining.com/cone-crusher-bronze-bushing-rfq-guide): Wear signals, measurement, bronze alloy selection and RFQ data for eccentric bushings, socket liners, frame bushings, countershaft bushings and main shaft sleeves.
 
 ## RFQ information
 
@@ -64,6 +65,7 @@ For an accurate quotation, send:
 - Quantity, destination country or port, packing requirements and required delivery date.
 - Operating evidence when relevant: rock type, feed size, CSS, wear pattern, current service life, oil temperature, oil pressure or debris photos.
 - For feeder wear parts: feeder model, width, length, grizzly bar profile, bar gap, hole spacing, bolt size, pan liner or side liner position, material flow, mud or moisture condition and used-part photos.
+- For bronze bushings: crusher model, part name or OEM reference number, drawing or used-part photos, bore and outer diameter measurements, length, material or alloy requirement, and operating evidence such as oil temperature, oil pressure or debris on the return screen.
 
 ## Languages and indexing
 
